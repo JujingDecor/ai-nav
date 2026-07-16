@@ -1,0 +1,114 @@
+[
+  {
+    "id": "google-ai-studio",
+    "name": "Google AI Studio (Gemini)",
+    "category": "国际大厂",
+    "url": "https://aistudio.google.com/",
+    "desc": "Gemini 系列模型官方免费额度，个人 Google 账号即可使用",
+    "keywords": ["Gemini 免费", "Gemini API 免费额度", "Google AI Studio"]
+  },
+  {
+    "id": "groq",
+    "name": "Groq",
+    "category": "国际大厂",
+    "url": "https://console.groq.com/",
+    "desc": "超高速推理，Llama/Mixtral 等开源模型免费 API 额度",
+    "keywords": ["Groq 免费API", "Groq 教程"]
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face Spaces",
+    "category": "国际大厂",
+    "url": "https://huggingface.co/spaces",
+    "desc": "海量开源模型免费在线体验与部署",
+    "keywords": ["HuggingFace 免费部署", "开源模型在线体验"]
+  },
+  {
+    "id": "openrouter",
+    "name": "OpenRouter",
+    "category": "国际大厂",
+    "url": "https://openrouter.ai/",
+    "desc": "聚合多家模型的官方路由平台，含免费模型额度",
+    "keywords": ["OpenRouter 免费模型"]
+  },
+  {
+    "id": "poe",
+    "name": "Poe",
+    "category": "国际大厂",
+    "url": "https://poe.com/",
+    "desc": "Quora 出品，免费额度内可体验多种主流模型",
+    "keywords": ["Poe 免费用AI"]
+  },
+  {
+    "id": "microsoft-copilot",
+    "name": "Microsoft Copilot",
+    "category": "国际大厂",
+    "url": "https://copilot.microsoft.com/",
+    "desc": "微软官方免费 AI 助手，网页版无需订阅",
+    "keywords": ["Copilot 免费版"]
+  },
+  {
+    "id": "kimi",
+    "name": "Kimi",
+    "category": "国产大模型",
+    "url": "https://kimi.moonshot.cn/",
+    "desc": "月之暗面出品，超长上下文，免费使用",
+    "keywords": ["Kimi 免费", "Kimi 长文本"]
+  },
+  {
+    "id": "doubao",
+    "name": "豆包",
+    "category": "国产大模型",
+    "url": "https://www.doubao.com/",
+    "desc": "字节跳动出品，网页/App 免费使用",
+    "keywords": ["豆包 免费使用"]
+  },
+  {
+    "id": "tongyi",
+    "name": "通义千问",
+    "category": "国产大模型",
+    "url": "https://tongyi.aliyun.com/",
+    "desc": "阿里出品，官方免费额度",
+    "keywords": ["通义千问 免费"]
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "category": "国产大模型",
+    "url": "https://chat.deepseek.com/",
+    "desc": "深度求索官方网页版，免费使用，支持深度思考模式",
+    "keywords": ["DeepSeek 免费使用", "DeepSeek 官网"]
+  },
+  {
+    "id": "zhipu",
+    "name": "智谱清言",
+    "category": "国产大模型",
+    "url": "https://chatglm.cn/",
+    "desc": "智谱 AI 出品，GLM 系列模型官方免费版",
+    "keywords": ["智谱清言 免费"]
+  },
+  {
+    "id": "yiyan",
+    "name": "文心一言",
+    "category": "国产大模型",
+    "url": "https://yiyan.baidu.com/",
+    "desc": "百度出品，官方免费使用",
+    "keywords": ["文心一言 免费"]
+  },
+  {
+    "id": "xinghuo",
+    "name": "讯飞星火",
+    "category": "国产大模型",
+    "url": "https://xinghuo.xfyun.cn/",
+    "desc": "科大讯飞出品，官方免费额度",
+    "keywords": ["讯飞星火 免费"]
+  },
+  {
+    "id": "yuanbao",
+    "name": "腾讯元宝",
+    "category": "国产大模型",
+    "url": "https://yuanbao.tencent.com/",
+    "desc": "腾讯出品，接入混元与 DeepSeek，免费使用",
+    "keywords": ["腾讯元宝 免费"]
+  }
+]
