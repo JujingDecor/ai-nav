@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-18T18:07:42.567308+00:00",
+  "updated_at": "2026-07-18T21:09:53.163774+00:00",
   "services": {
     "google-ai-studio": {
       "status": "green",
-      "latency": 0.29,
+      "latency": 0.22,
       "code": 200
     },
     "groq": {
       "status": "green",
-      "latency": 0.36,
+      "latency": 0.52,
       "code": 200
     },
     "huggingface": {
@@ -23,7 +23,7 @@
     },
     "poe": {
       "status": "green",
-      "latency": 0.35,
+      "latency": 0.26,
       "code": 200
     },
     "microsoft-copilot": {
@@ -33,42 +33,42 @@
     },
     "kimi": {
       "status": "green",
-      "latency": 2.07,
+      "latency": 1.92,
       "code": 200
     },
     "doubao": {
       "status": "green",
-      "latency": 2.37,
+      "latency": 1.7,
       "code": 200
     },
     "tongyi": {
       "status": "green",
-      "latency": 1.44,
+      "latency": 1.6,
       "code": 200
     },
     "deepseek": {
       "status": "green",
-      "latency": 0.11,
+      "latency": 0.1,
       "code": 202
     },
     "zhipu": {
-      "status": "green",
-      "latency": 2.1,
-      "code": 200
+      "status": "red",
+      "latency": 9.35,
+      "error": "<urlopen error _ssl.c:999: The handshake operation timed out>"
     },
     "yiyan": {
       "status": "green",
-      "latency": 2.2,
+      "latency": 1.61,
       "code": 200
     },
     "xinghuo": {
       "status": "green",
-      "latency": 1.22,
+      "latency": 1.23,
       "code": 200
     },
     "yuanbao": {
       "status": "green",
-      "latency": 0.84,
+      "latency": 1.09,
       "code": 200
     }
   }
