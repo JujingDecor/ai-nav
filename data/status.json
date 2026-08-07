@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-07T09:44:27.405064+00:00",
+  "updated_at": "2026-08-07T12:28:12.436240+00:00",
   "services": {
     "google-ai-studio": {
       "status": "green",
-      "latency": 0.31,
+      "latency": 0.42,
       "code": 200
     },
     "groq": {
       "status": "green",
-      "latency": 0.27,
+      "latency": 0.23,
       "code": 200
     },
     "huggingface": {
@@ -18,57 +18,57 @@
     },
     "openrouter": {
       "status": "green",
-      "latency": 0.11,
+      "latency": 0.1,
       "code": 200
     },
     "poe": {
       "status": "green",
-      "latency": 0.36,
+      "latency": 0.35,
       "code": 200
     },
     "microsoft-copilot": {
       "status": "green",
-      "latency": 0.07,
+      "latency": 0.12,
       "code": 200
     },
     "kimi": {
       "status": "green",
-      "latency": 2.01,
+      "latency": 1.98,
       "code": 200
     },
     "doubao": {
       "status": "green",
-      "latency": 2.63,
+      "latency": 2.4,
       "code": 200
     },
     "tongyi": {
       "status": "green",
-      "latency": 1.96,
+      "latency": 1.39,
       "code": 200
     },
     "deepseek": {
       "status": "green",
-      "latency": 0.19,
+      "latency": 0.08,
       "code": 202
     },
     "zhipu": {
       "status": "green",
-      "latency": 1.31,
+      "latency": 1.39,
       "code": 200
     },
     "yiyan": {
-      "status": "yellow",
-      "latency": 3.19,
+      "status": "green",
+      "latency": 2.34,
       "code": 200
     },
     "xinghuo": {
       "status": "green",
-      "latency": 1.38,
+      "latency": 1.29,
       "code": 200
     },
     "yuanbao": {
       "status": "green",
-      "latency": 1.69,
+      "latency": 0.97,
       "code": 200
     }
   }
