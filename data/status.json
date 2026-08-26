@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-08-26T05:56:59.433562+00:00",
+  "updated_at": "2026-08-26T06:38:01.045865+00:00",
   "services": {
     "google-ai-studio": {
-      "status": "green",
-      "latency": 0.28,
-      "code": 200
-    },
-    "groq": {
-      "status": "green",
-      "latency": 0.31,
-      "code": 200
-    },
-    "huggingface": {
-      "status": "green",
-      "latency": 0.4,
-      "code": 200
-    },
-    "openrouter": {
-      "status": "green",
-      "latency": 0.09,
-      "code": 200
-    },
-    "poe": {
       "status": "green",
       "latency": 0.36,
       "code": 200
     },
+    "groq": {
+      "status": "green",
+      "latency": 0.56,
+      "code": 200
+    },
+    "huggingface": {
+      "status": "green",
+      "latency": 0.23,
+      "code": 200
+    },
+    "openrouter": {
+      "status": "green",
+      "latency": 0.18,
+      "code": 200
+    },
+    "poe": {
+      "status": "green",
+      "latency": 0.42,
+      "code": 200
+    },
     "microsoft-copilot": {
       "status": "green",
-      "latency": 0.09,
+      "latency": 0.15,
       "code": 200
     },
     "kimi": {
       "status": "green",
-      "latency": 1.98,
+      "latency": 2.09,
       "code": 200
     },
     "doubao": {
-      "status": "yellow",
-      "latency": 3.41,
+      "status": "green",
+      "latency": 2.74,
       "code": 200
     },
     "tongyi": {
       "status": "green",
-      "latency": 1.49,
+      "latency": 1.52,
       "code": 200
     },
     "deepseek": {
       "status": "green",
-      "latency": 0.28,
+      "latency": 0.15,
       "code": 202
     },
     "zhipu": {
       "status": "green",
-      "latency": 0.94,
+      "latency": 1.32,
       "code": 200
     },
     "yiyan": {
-      "status": "yellow",
-      "latency": 3.21,
+      "status": "green",
+      "latency": 2.54,
       "code": 200
     },
     "xinghuo": {
       "status": "green",
-      "latency": 1.26,
+      "latency": 1.04,
       "code": 200
     },
     "yuanbao": {
-      "status": "green",
-      "latency": 1.27,
+      "status": "yellow",
+      "latency": 3.3,
       "code": 200
     }
   }
