@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-09-20T07:50:19.642621+00:00",
+  "updated_at": "2026-09-20T12:44:34.424193+00:00",
   "services": {
     "google-ai-studio": {
-      "status": "green",
-      "latency": 0.85,
-      "code": 200
-    },
-    "groq": {
-      "status": "green",
-      "latency": 0.34,
-      "code": 200
-    },
-    "huggingface": {
-      "status": "green",
-      "latency": 0.13,
-      "code": 200
-    },
-    "openrouter": {
-      "status": "green",
-      "latency": 0.1,
-      "code": 200
-    },
-    "poe": {
       "status": "green",
       "latency": 0.32,
       "code": 200
     },
-    "microsoft-copilot": {
+    "groq": {
+      "status": "green",
+      "latency": 0.3,
+      "code": 200
+    },
+    "huggingface": {
+      "status": "green",
+      "latency": 0.12,
+      "code": 200
+    },
+    "openrouter": {
       "status": "green",
       "latency": 0.08,
       "code": 200
     },
+    "poe": {
+      "status": "green",
+      "latency": 0.26,
+      "code": 200
+    },
+    "microsoft-copilot": {
+      "status": "green",
+      "latency": 0.06,
+      "code": 200
+    },
     "kimi": {
       "status": "green",
-      "latency": 1.89,
+      "latency": 2.07,
       "code": 200
     },
     "doubao": {
       "status": "green",
-      "latency": 2.45,
+      "latency": 1.92,
       "code": 200
     },
     "tongyi": {
       "status": "green",
-      "latency": 1.97,
+      "latency": 1.7,
       "code": 200
     },
     "deepseek": {
       "status": "green",
-      "latency": 0.07,
+      "latency": 0.11,
       "code": 202
     },
     "zhipu": {
       "status": "green",
-      "latency": 1.04,
+      "latency": 1.39,
       "code": 200
     },
     "yiyan": {
       "status": "yellow",
-      "latency": 4.55,
+      "latency": 4.75,
       "code": 200
     },
     "xinghuo": {
       "status": "green",
-      "latency": 1.37,
+      "latency": 1.25,
       "code": 200
     },
     "yuanbao": {
       "status": "green",
-      "latency": 1.01,
+      "latency": 1.07,
       "code": 200
     }
   }
